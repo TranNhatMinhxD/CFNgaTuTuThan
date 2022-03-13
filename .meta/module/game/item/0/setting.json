@@ -2,37 +2,42 @@
   "data": {
     "canJoinMidway": false,
     "fixed_viewPos": {
-      "__OBJ_TYPE": "ScenePos"
+      "pos": {
+        "__OBJ_TYPE": "Vector3i"
+      }
     },
     "initPos": {
       "map": "map001",
       "pos": {
-        "x": 28,
-        "y": 54,
-        "z": 34
+        "x": 7,
+        "y": 1.04,
+        "z": 37
       }
     },
     "nowTime": {
-      "h": 0,
-      "s": 6
+      "h": 7,
+      "m": 40
     },
     "player_range": {
       "max": 6,
       "min": 1
     },
     "startPos": {
-      "map": "map001"
+      "map": "map001",
+      "pos": {
+        "x": 7,
+        "y": 1.04,
+        "z": 37
+      }
     },
     "unlimitedPlayTime": true
   },
   "meta": {
     "EXPORT": {
-      "coin.json": "b6f4e60cb0a22c3025522ef96ecb9410",
-      "commodity.csv": "8b4680f579056d53a7459bda38f8d752",
-      "setting.json": "34df72882b02601b03b50d6627bbcb2f",
+      "setting.json": "ff1a040ef1d308c4b857c5ff282c9596",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": ""
     },
-    "VERSION": "0.15"
+    "VERSION": "0.18"
   }
 }
